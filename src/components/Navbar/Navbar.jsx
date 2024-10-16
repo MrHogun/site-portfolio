@@ -3,6 +3,9 @@ import React, { useState } from "react";
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
 
+import menuIcon from "../../../assets/nav/menuIcon.svg";
+import closeIcon from "../../../assets/nav/closeIcon.svg";
+
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
