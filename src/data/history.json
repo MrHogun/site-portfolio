@@ -1,10 +1,10 @@
 [
   {
-    "role": "Frontend Developer",
+    "role": "Trainee Frontend Developer",
     "organization": "Kherson State University",
     "startDate": "2024-01-01",
-    "endDate": "",
+    "endDate": "current working",
     "experience": ["I am a starting frontend developer"],
-    "imageSrc": "history/ksu.svg"
+    "imageSrc": "skills/ksu.svg"
   }
 ]
